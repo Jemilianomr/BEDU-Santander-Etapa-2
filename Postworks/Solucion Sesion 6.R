@@ -1,4 +1,4 @@
- Sesión 6: Series de tiempo
+# Sesión 6: Series de tiempo
 
 # Postwork
 
